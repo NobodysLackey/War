@@ -21,7 +21,7 @@
 ### ***Getting Started***
 
 ##### Each player starts with half of the deck (26 cards). Begin each hand by hitting the 'Flip' button.  The player with the highest card wins the hand and is awarded the other players card.  In the event of a tie, 3 additional cards are burned and a 4th is flipped.  These cards are then evaluated and the player with the highest card wins *all* of the played cards.  The game ends when one player has all 52 cards in the deck.
-##### The project was deployed on GitHub Pages and can be viewed [here](https://mlackey9601.github.io/War/).
+##### The project was deployed on Surge and can be viewed [here](https://card-war.surge.sh/).
 ***
 
 ### ***Screenshots***
