@@ -38,6 +38,7 @@
 - [x] ~~Create a 'Play Again' button~~
 - [x] ~~Create a 'card flip' animation~~
 - [x] ~~Add 'card flip' sound effects~~
+- [x] ~~Add custom URL and deploy to Surge~~
 - [ ] Create a win counter for each player
 - [ ] Allow the user to choose their deck image
 - [ ] Toggle music, flip sounds, and background
