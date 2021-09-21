@@ -26,11 +26,12 @@
 
 ### ***Screenshots***
 
-###### War!
-![War!](images/screenshots/war.png)
+<div align="center">
+  <pre>
+    <img src="images/screenshots/war.png" height="500" />&nbsp;&nbsp;&nbsp;<img src="images/screenshots/endgame.png" height="500" />
+  </pre>
+</div>
 
-###### End of Game
-![End of Game](images/screenshots/endgame.png)
 ***
 
 ### ***Future Updates***
